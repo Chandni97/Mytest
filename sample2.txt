@@ -1,2 +1,7 @@
 is my second file abd bow making the change
+<<<<<<< HEAD
 adding text to master 
+=======
+added a new branch to my repository
+switching branch without commiting
+>>>>>>> Mytest2
